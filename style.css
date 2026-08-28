@@ -3,16 +3,14 @@ body {
 }
 
 header {
-    background-color: #0a2541;
-    color: #FFFFFF;
     text-align: center;
     margin: 0 auto;
     padding: 16px;
 }
 
 main {
-    background-color: #0a2541;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #0a2541;
     margin: 0 auto;
     padding: 16px;
 

@@ -3,6 +3,8 @@ body {
 }
 
 header {
+    background-color: aqua;
+    color: #FFFFFF
     text-align: center;
     margin: 0 auto;
     padding: 16px;

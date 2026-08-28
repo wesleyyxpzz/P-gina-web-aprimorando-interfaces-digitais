@@ -6,6 +6,8 @@ header {
     background-color: aqua;
     color: #FFFFFF
     padding: 16px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 main {
